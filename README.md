@@ -2,7 +2,11 @@
   <img src="./icons/Hi.gif" 
        width="30px">
 </h1>
-
+<a href="https://github.com/Senjo903?tab=repositories">
+  <img align="center" 
+       src="./icons/wallpapergithub.jpg" 
+       alt='Senjo903' />
+</a>
 <p align="center">Technical Skills: 💻</p>
 
 <div align="center">
