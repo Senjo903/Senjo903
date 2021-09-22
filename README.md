@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! Mi name is Jose Leonardo Agreda
+<h1 align="center">Hello World! My name is Jose Leonardo Agreda
   <img src="./icons/Hi.gif" 
        width="30px">
 </h1>
