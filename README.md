@@ -55,7 +55,7 @@ Based in Rosario, Santa Fe, Argentina. Working remotely.
 
 | Period | Role | Scope |
 | --- | --- | --- |
-| Jul 2024 - Present | Full-Stack Engineer at OptiPixel | Production conversational AI platform, scalable backend services, WebSockets, external AI APIs, Linux/VPS deployments. |
+| Jul 2024 - 2026 | Full-Stack Engineer at OptiPixel | Production conversational AI platform, scalable backend services, WebSockets, external AI APIs, Linux/VPS deployments. |
 | 2024 | Full-Stack Developer at Lum for School | AI-powered EdTech platform presented on Shark Tank Guatemala, React + Node.js, REST APIs, relational database modeling, cloud deployment. |
 | 2022 | Tech Lead at Core Code | Backend architecture, technical leadership, code reviews, and engineering practices. |
 | 2021 - 2022 | Frontend Developer at MayLand Labs | React interfaces, external API integrations, authentication flows, Three.js experiences, and performance work. |
