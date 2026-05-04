@@ -26,19 +26,15 @@
   <text x="804" y="108" fill="#f4f4f5" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="750" letter-spacing="0">Production Engineering</text>
   <text x="804" y="136" fill="#a1a1aa" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="500" letter-spacing="0">Design, build, deploy, and optimize.</text>
 
-  <line x1="854" y1="178" x2="956" y2="178" stroke="#14b8a6" stroke-width="3" stroke-linecap="round"/>
-  <line x1="956" y1="178" x2="1010" y2="218" stroke="#38bdf8" stroke-width="3" stroke-linecap="round"/>
-  <line x1="854" y1="178" x2="814" y2="218" stroke="#f59e0b" stroke-width="3" stroke-linecap="round"/>
+  <rect x="814" y="154" width="118" height="38" rx="12" fill="#0f766e"/>
+  <text x="873" y="179" fill="#ecfeff" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="800" text-anchor="middle" letter-spacing="0">API</text>
 
-  <rect x="812" y="158" width="84" height="40" rx="12" fill="#0f766e"/>
-  <text x="838" y="184" fill="#ecfeff" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="800" letter-spacing="0">API</text>
+  <rect x="950" y="154" width="118" height="38" rx="12" fill="#1d4ed8"/>
+  <text x="1009" y="179" fill="#eff6ff" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="800" text-anchor="middle" letter-spacing="0">Realtime</text>
 
-  <rect x="918" y="158" width="88" height="40" rx="12" fill="#1d4ed8"/>
-  <text x="942" y="184" fill="#eff6ff" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="800" letter-spacing="0">Realtime</text>
+  <rect x="814" y="204" width="118" height="38" rx="12" fill="#92400e"/>
+  <text x="873" y="229" fill="#fff7ed" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="800" text-anchor="middle" letter-spacing="0">AI</text>
 
-  <rect x="782" y="208" width="86" height="40" rx="12" fill="#92400e"/>
-  <text x="808" y="234" fill="#fff7ed" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="800" letter-spacing="0">AI</text>
-
-  <rect x="976" y="208" width="94" height="40" rx="12" fill="#3f3f46"/>
-  <text x="1000" y="234" fill="#fafafa" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="800" letter-spacing="0">Cloud</text>
+  <rect x="950" y="204" width="118" height="38" rx="12" fill="#3f3f46"/>
+  <text x="1009" y="229" fill="#fafafa" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="800" text-anchor="middle" letter-spacing="0">Cloud</text>
 </svg>
