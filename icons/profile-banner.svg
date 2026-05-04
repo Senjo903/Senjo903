@@ -1,0 +1,28 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Jose Leonardo Agreda Anchaise - Full Stack Engineer</title>
+  <desc id="desc">Profile banner for a full stack engineer focused on real-time systems, scalable backend architecture, and AI platforms.</desc>
+  <rect width="1200" height="360" rx="24" fill="#18181b"/>
+  <rect x="24" y="24" width="1152" height="312" rx="20" fill="#202020" stroke="#52525b" stroke-width="2"/>
+  <circle cx="104" cy="92" r="34" fill="#14b8a6" opacity="0.95"/>
+  <circle cx="155" cy="92" r="20" fill="#f59e0b" opacity="0.9"/>
+  <circle cx="187" cy="92" r="12" fill="#38bdf8" opacity="0.95"/>
+  <path d="M875 64H1084C1102.78 64 1118 79.2223 1118 98V250C1118 268.778 1102.78 284 1084 284H875C856.222 284 841 268.778 841 250V98C841 79.2223 856.222 64 875 64Z" fill="#111111" stroke="#52525b" stroke-width="2"/>
+  <path d="M882 111H1077" stroke="#14b8a6" stroke-width="8" stroke-linecap="round"/>
+  <path d="M882 151H1040" stroke="#38bdf8" stroke-width="8" stroke-linecap="round"/>
+  <path d="M882 191H1096" stroke="#71717a" stroke-width="8" stroke-linecap="round"/>
+  <path d="M882 231H1020" stroke="#f59e0b" stroke-width="8" stroke-linecap="round"/>
+  <path d="M781 82L727 136L781 190" stroke="#38bdf8" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M1094 104L1148 158L1094 212" stroke="#14b8a6" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" opacity="0.75"/>
+  <path d="M704 254C738.333 228.667 781.7 211.8 834.5 225C887.3 238.2 917 226.5 948 205" stroke="#71717a" stroke-width="4" stroke-linecap="round" opacity="0.8"/>
+  <text x="82" y="160" fill="#f8fafc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="56" font-weight="800" letter-spacing="0">Jose Leonardo Agreda</text>
+  <text x="86" y="206" fill="#e4e4e7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="27" font-weight="600" letter-spacing="0">Full Stack Engineer</text>
+  <text x="86" y="250" fill="#a1a1aa" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="500" letter-spacing="0">Realtime systems | Scalable backends | Production AI platforms</text>
+  <rect x="86" y="277" width="138" height="34" rx="17" fill="#134e4a"/>
+  <text x="108" y="300" fill="#ccfbf1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="0">TypeScript</text>
+  <rect x="238" y="277" width="104" height="34" rx="17" fill="#27272a"/>
+  <text x="260" y="300" fill="#e2e8f0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="0">Node.js</text>
+  <rect x="356" y="277" width="130" height="34" rx="17" fill="#1e3a8a"/>
+  <text x="378" y="300" fill="#bfdbfe" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="0">WebSockets</text>
+  <rect x="500" y="277" width="84" height="34" rx="17" fill="#451a03"/>
+  <text x="522" y="300" fill="#fed7aa" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="0">Cloud</text>
+</svg>
