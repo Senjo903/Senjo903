@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="./icons/profile-banner.svg"
+    src="./icons/profile-banner-v2.svg"
     alt="Jose Leonardo Agreda Anchaise - Full Stack Engineer"
     width="100%"
   />
